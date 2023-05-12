@@ -2,19 +2,12 @@
 The prompts supported by JoPilot 
 
 **1. Search by location**
-
 _Prompt:_ Show me server/waiter/waitress jobs in **Miami, FL**.
-
 _JoPilot:_ I found 20 jobs. The job search results show various server/waiter/waitress positions available in **Miami and surrounding areas**. The jobs are mostly
-
 in the restaurant and hospitality industry, with some in retirement communities and data-related positions. Companies hiring include Cafe Americano Ocean, Mercato
-
 Della Pescheria, Watermark Retirement Communities, Davidson Hospitality, Miller's Ale House, The Key Club, Cracker Barrel, Olive Garden, TGIF, American Social,
-
 Sushi Sake, The Cheesecake Factory, Bahama Breeze, Fogo de Chão, Outback Steakhouse, Chuy's, Benihana, and First Watch. Salaries and salary periods vary, with
-
 some jobs offering variable pay and others offering benefits such as medical, dental, and life insurance.
-
 
 **2. Search by job title**
 
