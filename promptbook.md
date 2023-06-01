@@ -1,3 +1,16 @@
+## June 1
+| Index | Name                 | Description                                                                                         |
+|-------|----------------------|-----------------------------------------------------------------------------------------------------|
+| 218   | SEO                  | Send a URL and keyword and get a On Page SEO analysis & insights!                                   |
+| 217   | TalkFPL              | Talk with AI to help you manage your FPL team. Compare players, transfer options and more.          |
+| 216   | Career Copilot       | A trusted, always on assistant to help software developers find a better job. Built by Commit.dev.  |
+| 215   | HeyGen               | Meet HeyGen - The best AI video generation platform for your team.                                  |
+| 214   | Meme Generator       | Your AI meme generator.                                                                             |
+| 213   | PDF Exporter         | Export any chat response into a stylized PDF document.                                              |
+| 212   | ML Paper Reader      | Search for ML papers on different topics and speed up research by \"talking\" to the PDFs.          |
+| 211   | Shop Best            | Shop and get summarized reviews for the best products on Amazon.                                    
+
+
 # promptbook
 The prompts supported by JoPilot
 
